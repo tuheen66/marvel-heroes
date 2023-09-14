@@ -1,0 +1,13 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background:url('https://i.ibb.co/JB1y0X5/4690.jpg') ,
+    linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+
+.card{
+    background: linear-gradient(rgba(153, 151, 9, 0.438),rgba(0, 0, 0, 0.603));
+}
